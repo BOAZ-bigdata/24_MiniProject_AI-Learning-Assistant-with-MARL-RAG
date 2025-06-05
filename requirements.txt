@@ -1,0 +1,32 @@
+# 핵심 ML/DL 라이브러리
+sentence-transformers
+
+# NLP 및 검색
+rank-bm25
+
+# 설정 파일 처리
+PyYAML
+
+# 환경 변수 관리
+python-dotenv
+
+# Hugging Face Hub
+huggingface-hub
+
+# 진행률 표시
+tqdm
+
+# 기타 유틸리티
+accelerate
+bitsandbytes
+
+# 웹 인터페이스
+streamlit>=1.28.0
+
+# 데이터 처리
+pandas>=1.5.0
+numpy>=1.21.0
+
+# PyTorch 관련 (스트림릿 호환성)
+torch>=2.0.0
+transformers>=4.30.0
